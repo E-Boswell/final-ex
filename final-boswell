@@ -87,7 +87,7 @@
 
 
 <div class="service-login">
-  <a role="button" class='btn btn-jupyter btn-lg' href='/hub/oauth_login?next=%2Fhub%2Fapi%2Foauth2%2Fauthorize%3Fclient_id%3Djupyterhub-user-einatnel%26redirect_uri%3D%252Fuser%252Feinatnel%252Foauth_callback%26response_type%3Dcode%26state%3DeyJ1dWlkIjogImQ4YjYzYTNhNDY4NzQ2NDBiMzAwNDg4YjI3NWI2ZjA2IiwgIm5leHRfdXJsIjogIi91c2VyL2VpbmF0bmVsL2ZpbGVzL2xhYnMvUFkwMjIwRU4vRmluYWwlMjBBc3NpZ25tZW50LmlweW5iIn0'>
+  <a role="button" class='btn btn-jupyter btn-lg' href='/hub/oauth_login?next=%2Fhub%2Fapi%2Foauth2%2Fauthorize%3Fclient_id%3Djupyterhub-user-einatnel%26redirect_uri%3D%252Fuser%252Feinatnel%252Foauth_callback%26response_type%3Dcode%26state%3DeyJ1dWlkIjogIjFjNDk2MmM5N2U4MjQ2ZDhhYTQ3NWJlMmEwNGMzNTFkIiwgIm5leHRfdXJsIjogIi91c2VyL2VpbmF0bmVsL2ZpbGVzL2xhYnMvUFkwMjIwRU4vRmluYWwlMjBBc3NpZ25tZW50LmlweW5iIiwgImNvb2tpZV9uYW1lIjogImp1cHl0ZXJodWItdXNlci1laW5hdG5lbC1vYXV0aC1zdGF0ZS16Q1hKZVFPUCJ9'>
     Sign in with Skills Network Labs
   </a>
 </div>
